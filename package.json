@@ -1,0 +1,22 @@
+{
+  "name": "queue_with_stacks",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemavri/queue_with_stacks.git"
+  },
+  "author": "Mauricio Schneider <mauricio@schneider.xyz>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lemavri/queue_with_stacks/issues"
+  },
+  "homepage": "https://github.com/lemavri/queue_with_stacks#readme",
+  "dependencies": {
+    "mocha": "^2.4.5"
+  }
+}
